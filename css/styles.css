@@ -163,7 +163,7 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
 .section-0 {
     position: relative;
     background: linear-gradient(360deg, rgb(0 0 0 / 45%), rgb(0 0 0 / 45%)),
-        url('../img/banner-1.png') center center/ cover no-repeat var(--black);
+        url('../img/banner-1.jpg') center center/ cover no-repeat var(--black);
     padding: 5.8% 0 8% 0;
 }
 
